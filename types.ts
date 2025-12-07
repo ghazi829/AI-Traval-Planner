@@ -1,7 +1,6 @@
-
-// FIX: Made uri and title optional to match the type from the @google/genai SDK.
+// FIX: Made the `web` property optional to align with the GroundingChunk type from the @google/genai SDK.
 export interface GroundingChunk {
-  web: {
+  web?: {
     uri?: string;
     title?: string;
   };

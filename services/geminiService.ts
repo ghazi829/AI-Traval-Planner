@@ -72,11 +72,20 @@ Provide a full detailed plan for 7 days with activities, timing suggestions, and
 - **Morning:** 
 
 ## 5. Budget Estimation
-- **Flight estimate (international):**
-- **Hotel per night:** (Provide ranges for budget, standard, luxury)
-- **Food per day:** (Provide ranges)
-- **Transportation costs:**
-- **Total budget:** (Provide ranges for budget, mid-range, luxury)
+Provide a detailed breakdown.
+- **Flight estimate (international):** (Provide a typical range from a major hub like NYC or London)
+- **Accommodation per night:** 
+    - **Budget (Hostel/Guesthouse):** 
+    - **Standard (3-star Hotel):**
+    - **Luxury (5-star Hotel):**
+- **Daily Costs (per person):**
+    - **Food:** Provide a breakdown for breakfast, lunch, and dinner, with a total daily estimate for budget and mid-range options.
+    - **Local Transportation:** Estimate daily costs for public transport, and provide typical taxi/ride-share fares.
+    - **Attractions:** Provide an estimated daily budget for entrance fees and activities.
+- **Total Estimated Trip Cost (per person, excluding international flights):**
+    - **Budget (7 days):**
+    - **Mid-Range (7 days):**
+    - **Luxury (7 days):**
 
 ## 6. Packing List
 - **Clothing:**
