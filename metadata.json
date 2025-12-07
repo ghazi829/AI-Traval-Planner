@@ -1,0 +1,5 @@
+{
+  "name": "AI Travel Planner",
+  "description": "An AI-powered travel planner that generates comprehensive trip itineraries for any destination using Google Search for up-to-date information.",
+  "requestFramePermissions": []
+}
